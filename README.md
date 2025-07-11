@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hallo
+Ich bin Stephan Epp, geb. 29.08.1986 in Bielefeld, Deutschland.
+
+WICHTIG: Alle Lösungen, die hier in github.com/hjstephan86 **als neue Lösungen** gezeigt werden, sind urheberrechtlich geschützt. Eine kommerzielle Nutzung ist ausgeschlossen. Eine freie Nutzung braucht meine Zustimmung.
+
+Ich habe Informatik studiert mit dem Nebenfach Elektrotechnik und dem Schwerpunkt Softwaretechnik. Ich liebe theoretische Informatik und Algorithmen und teile meine Gedanken und Ideen gerne hier. An der Elektrotechnik mag ich wie Mathematik und Physik sich bestätigen. Ich hasse jeden Softwareentwicklungsprozess, der nicht maximal viel Wert auf Qualität legt (MDD, TDD, Clean Code, Coding Standards, Agile, GIT, Test Automation und Code Coverage).
 
 <!--
 **hjstephan86/hjstephan86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
