@@ -1,5 +1,5 @@
 ## Hallo
-Ich bin Stephan Epp, geb. 29.08.1986 in Bielefeld, Deutschland.
+Ich bin Stephan Epp, geboren am 29.08.1986 in Bielefeld, Deutschland, E-Mail: hjstephan86@gmail.com, Tel: 0163 8140605
 
 Hier ist mein Blog mit aktuellen Gedanken: [https://github.com/hjstephan86/blog](https://github.com/hjstephan86/blog).
 
