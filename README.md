@@ -3,6 +3,10 @@ Ich bin Stephan Epp, geboren am 29.08.1986 in Bielefeld, Deutschland, E-Mail: hj
 
 Hier ist mein Blog mit aktuellen Gedanken: [https://github.com/hjstephan86/blog](https://github.com/hjstephan86/blog).
 
+Hier ist meine Arbeit zu den Grundlagen der Algebra: [https://github.com/hjstephan86/algebra](https://github.com/hjstephan86/algebra).\
+Hier ist meine Arbeit zum modifizierten Algorithmus von Strassen mit optimaler Laufzeit von $O(n^{2.3219})$: [https://github.com/hjstephan86/strassen](https://github.com/hjstephan86/strassen).
+
+
 Ich habe Informatik studiert mit dem Nebenfach Elektrotechnik und dem Schwerpunkt Softwaretechnik. Ich liebe theoretische Informatik und Algorithmen und teile meine Gedanken und Ideen gerne hier. An der Elektrotechnik mag ich wie Mathematik und Physik sich bestätigen. Ich hasse jeden Softwareentwicklungsprozess, der nicht maximal viel Wert auf Qualität legt (MDD, TDD, Clean Code, Coding Standards, Agile, GIT, Test Automation und Code Coverage).
 
 Juden, beauftragt vom Staat Israel, fluchen seit Jahrzehnten in mein Leben. Sie wollen verhindern, dass bekannt wird, dass **das Ende der Welt** bevorsteht. Im Jahr 2036 kommt Jesus wieder und die Gemeinde wird entrückt aus dieser schweren Zeit (sieben Siegel sind geöffnet, vier Posaunen sind geblasen, zwei Posaunen folgen noch). Dass sieben Siegel bereits geöffnet sind zeigt sich schleichend aber immer deutlicher an
