@@ -11,7 +11,8 @@ Ich habe Informatik studiert mit dem Nebenfach Elektrotechnik und dem Schwerpunk
 
 ## Ende der Welt
 
-Juden, beauftragt vom Staat Israel, fluchen seit Jahrzehnten in mein Leben. Sie wollen verhindern, dass bekannt wird, dass **das Ende der Welt** bevorsteht. Im Jahr 2036 kommt Jesus wieder und die Gemeinde wird entrückt aus dieser schweren Zeit (sieben Siegel sind geöffnet, vier Posaunen sind geblasen, zwei Posaunen folgen noch). Dass sieben Siegel bereits geöffnet sind zeigt sich schleichend aber immer deutlicher an
+Juden, beauftragt vom Staat Israel, fluchen seit Jahrzehnten in mein Leben. Sie wollen verhindern, dass bekannt wird, dass **das Ende der Welt** bevorsteht. Im Jahr 2036 kommt Jesus wieder und die Gemeinde wird entrückt aus dieser schweren Zeit (sieben Siegel sind geöffnet, vier Posaunen sind geblasen, zwei Posaunen folgen noch). Dass sieben Siegel bereits geöffnet sind, zeigt sich schleichend aber immer deutlicher an
+- dem Hunger
 - den Erdbeben (Häufigkeit nimmt zu)
 - der Inflation
 - den Wolken (die ein drittel des Sonnenscheins verhindern)
@@ -19,9 +20,9 @@ Juden, beauftragt vom Staat Israel, fluchen seit Jahrzehnten in mein Leben. Sie 
 - der Verschmutzung des Meeres
 - den aggressiveren Tieren im Meer und an Land
 - dem schmutziger werdenden Grundwasser (Abwasser gelangt ins Grundwasser, Wasserleitungen sind marode)
-- den Kriegen wie z.B. der Provokationskrieg der Ukraine (Westen) gegen Russland
-- die Gottlosigkeit nimmt zu (und die Liebe erkaltet in vielen Menschen)
-- der Abfall vieler Christen (sie sind tote Christen und folgen Jesus nicht mehr nach)
+- den Kriegen wie z.B. dem Provokationskrieg der Ukraine (Westen) gegen Russland
+- der Gottlosigkeit - sie nimmt zu (die Liebe erkaltet in vielen Menschen)
+- dem Abfall vieler Christen (sie sind tote Christen und folgen Jesus nicht mehr nach)
 
 Nach der Entrückung (der siebten Posaune) kommen sieben Jahre, dreieinhalb Jahre Läuterung der Nationen (Zornschalen Gottes, Offb 16) und dreieinhalb Jahre Läuterung Israels. Danach kommt das tausendjährige Reich. Danach kommt das letzte Aufbäumen des Satans gegen Israel und abschließend das letzte Gericht.
 
@@ -35,7 +36,7 @@ Von 2024 sind es 19 Jahre bis zum 1000-jährigen Reich. Es sind 12 Jahre bis zur
 
 ## Clones und Unique Clones
 
-Hier eine Übersicht über die Clones und unique Clones einiger Repositories vergangener Tage vom 17. Juli 2025:
+Hier eine Übersicht über die Clones und Unique Clones einiger Repositories vergangener Tage vom 18. Juli 2025:
 
 ![algebra.clones.svg](svg/algebra.clones.svg)
 
