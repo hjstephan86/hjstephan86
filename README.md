@@ -1,4 +1,4 @@
-## Hallo
+# Hallo
 Ich bin Stephan Epp, geboren am 29.08.1986 in Bielefeld, Deutschland, E-Mail: hjstephan86@gmail.com, Tel: 0163 8140605
 
 Hier ist mein Blog mit aktuellen Gedanken: [https://github.com/hjstephan86/blog](https://github.com/hjstephan86/blog).
@@ -9,7 +9,7 @@ Hier ist meine Arbeit zum modifizierten Algorithmus von Strassen mit optimaler L
 
 Ich habe Informatik studiert mit dem Nebenfach Elektrotechnik und dem Schwerpunkt Softwaretechnik. Ich liebe theoretische Informatik und Algorithmen und teile meine Gedanken und Ideen gerne hier. An der Elektrotechnik mag ich wie Mathematik und Physik sich bestätigen. Ich hasse jeden Softwareentwicklungsprozess, der nicht maximal viel Wert auf Qualität legt (MDD, TDD, Clean Code, Coding Standards, Agile, GIT, Test Automation und Code Coverage).
 
-## Ende der Welt
+# Ende der Welt
 
 Juden, beauftragt vom Staat Israel, fluchen seit Jahrzehnten in mein Leben. Sie wollen verhindern, dass bekannt wird, dass **das Ende der Welt** bevorsteht. Im Jahr 2036 kommt Jesus wieder und die Gemeinde wird entrückt aus dieser schweren Zeit (sieben Siegel sind geöffnet, vier Posaunen sind geblasen, zwei Posaunen folgen noch). Dass sieben Siegel bereits geöffnet sind, zeigt sich schleichend aber immer deutlicher an
 - dem Hunger
@@ -34,9 +34,27 @@ Hier eine Übersicht über das Ende der Welt, welche ich 2024 erhalten und erfas
 
 Von 2024 sind es 19 Jahre bis zum 1000-jährigen Reich. Es sind 12 Jahre bis zur Entrückung und 7 Jahre für die Läuterung der Nationen und Israels. Offb 6, 8 und 9 beschreiben insgesamt 10 Gerichte. Dabei sind es 4 Siegelgerichte und 6 Posaunengerichte. 2 Posaunengerichte stehen noch aus. Es sind die Gerichte aus Offb 9. Mit der 7. Posaune kommt Jesus Christus die Gemeinde zu entrücken. Nach der Entrückung kommen die Zornschalen Gottes aus Offb 16. Ein Engel sagte, vor der Entrückung ist eine schwere Zeit. Nach der Entrückung ist die Hölle los.
 
+# Insights: Views und Clones
+
+Hier folgt eine Übersicht über die Views und Clones meiner interessantesten Repositories aus den vergangenen Tagen vom 20. Juli 2025.
+
+## Views und Unique Views
+
+Hier folgt eine Übersicht über die Views und Unique Views meiner Repositories aus den vergangenen Tagen vom 20. Juli 2025.
+
+![algebra.views.svg](svg/algebra.views.svg)
+
+![strassen.views.svg](svg/strassen.views.svg)
+
+![cmos.views.svg](svg/cmos.views.svg)
+
+![blog.views.svg](svg/blog.views.svg)
+
+![hjstephan86.views.svg](svg/hjstephan86.views.svg)
+
 ## Clones und Unique Clones
 
-Hier eine Übersicht über die Clones und Unique Clones einiger Repositories vergangener Tage vom 18. Juli 2025:
+Hier folgt eine Übersicht über die Clones und Unique Clones meiner Repositories aus den vergangenen Tagen vom 20. Juli 2025.
 
 ![algebra.clones.svg](svg/algebra.clones.svg)
 
@@ -47,18 +65,3 @@ Hier eine Übersicht über die Clones und Unique Clones einiger Repositories ver
 ![blog.clones.svg](svg/blog.clones.svg)
 
 ![hjstephan86.clones.svg](svg/hjstephan86.clones.svg)
-
-<!--
-**hjstephan86/hjstephan86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
