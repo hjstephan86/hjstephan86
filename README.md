@@ -36,7 +36,7 @@ Von 2024 sind es 19 Jahre bis zum 1000-jährigen Reich. Es sind 12 Jahre bis zur
 
 ## Clones und Unique Clones
 
-Hier eine Übersicht über die Clones und Unique Clones einiger Repositories vergangener Tage vom 18. Juli 2025:
+Hier eine Übersicht über die Clones und Unique Clones einiger Repositories vergangener Tage vom 19. Juli 2025:
 
 ![algebra.clones.svg](svg/algebra.clones.svg)
 
@@ -47,18 +47,3 @@ Hier eine Übersicht über die Clones und Unique Clones einiger Repositories ver
 ![blog.clones.svg](svg/blog.clones.svg)
 
 ![hjstephan86.clones.svg](svg/hjstephan86.clones.svg)
-
-<!--
-**hjstephan86/hjstephan86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
