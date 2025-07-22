@@ -36,11 +36,11 @@ Von 2024 sind es 19 Jahre bis zum 1000-jährigen Reich. Es sind 12 Jahre bis zur
 
 # Insights: Views und Clones
 
-Hier folgt eine Übersicht über die Views und Clones meiner interessantesten Repositories aus den vergangenen Tagen vom 20. Juli 2025.
+Hier folgt eine Übersicht über die Views und Clones meiner interessantesten Repositories aus den vergangenen Tagen vom 22. Juli 2025.
 
 ## Views und Unique Views
 
-Hier folgt eine Übersicht über die Views und Unique Views meiner Repositories aus den vergangenen Tagen vom 20. Juli 2025.
+Hier folgt eine Übersicht über die Views und Unique Views meiner Repositories aus den vergangenen Tagen vom 22. Juli 2025.
 
 ![algebra.views.svg](svg/algebra.views.svg)
 
@@ -54,7 +54,7 @@ Hier folgt eine Übersicht über die Views und Unique Views meiner Repositories 
 
 ## Clones und Unique Clones
 
-Hier folgt eine Übersicht über die Clones und Unique Clones meiner Repositories aus den vergangenen Tagen vom 20. Juli 2025.
+Hier folgt eine Übersicht über die Clones und Unique Clones meiner Repositories aus den vergangenen Tagen vom 22. Juli 2025.
 
 ![algebra.clones.svg](svg/algebra.clones.svg)
 
