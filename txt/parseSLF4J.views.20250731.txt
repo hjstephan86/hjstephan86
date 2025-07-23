@@ -1,0 +1,8 @@
+timestamp,count,uniques
+2025-07-19T00:00:00Z,10,1
+2025-07-20T00:00:00Z,2,1
+2025-07-23T00:00:00Z,4,1
+2025-07-24T00:00:00Z,2,1
+
+Total Views: 22
+Total Unique Views: 8
