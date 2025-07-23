@@ -1,0 +1,4 @@
+timestamp,count,uniques
+
+Total Views: 4
+Total Unique Views: 2
