@@ -1,0 +1,11 @@
+timestamp,count,uniques
+2025-07-07T00:00:00Z,1,1
+2025-07-16T00:00:00Z,3,1
+2025-08-12T00:00:00Z,6,1
+2025-08-27T00:00:00Z,1,1
+2025-09-13T00:00:00Z,9,1
+
+Total Views: 20
+Total Unique Views: 5
+Data points: 5
+Date range: 2025-07-07 to 2025-09-13
