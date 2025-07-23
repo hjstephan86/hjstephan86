@@ -1,0 +1,5 @@
+timestamp,count,uniques
+2025-08-12T00:00:00Z,3,1
+
+Total Views: 3
+Total Unique Views: 1
