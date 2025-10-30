@@ -1,0 +1,10 @@
+timestamp,count,uniques
+2025-11-19T00:00:00Z,12,1
+2025-11-20T00:00:00Z,7,1
+2025-11-21T00:00:00Z,2,1
+2025-11-22T00:00:00Z,3,1
+
+Total Views: 24
+Total Unique Views: 4
+Data points: 4
+Date range: 2025-11-19 to 2025-11-22

@@ -1,0 +1,11 @@
+timestamp,count,uniques
+2025-10-28T00:00:00Z,21,18
+2025-10-29T00:00:00Z,4,4
+2025-10-31T00:00:00Z,1,1
+2025-11-01T00:00:00Z,1,1
+2025-11-02T00:00:00Z,1,1
+
+Total Clones: 28
+Total Unique Clones: 25
+Data points: 5
+Date range: 2025-10-28 to 2025-11-02

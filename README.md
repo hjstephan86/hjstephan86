@@ -48,23 +48,31 @@ Joh 3, 16 *Also hat Gott die Welt geliebt, dass er seinen eingeborenen Sohn gab,
 
 **Gottes Geist hat gezeigt, dass ich die Entrückung 2036 mit 49 Jahren sehen werde**. In der Deutung der Prophetie bedeutet 49 *Zeit erfüllt*. Im Rahmen der Deutung haben einige Zahlen eine Bedeutung: 0 Jesus, 1 Stephan, 2 Söhne Gottes, 5 Nationen, 5 Gnade, 6 böse, 8 lacht, 9 Ende, 10 heilig, 11 Gericht, 13 böse, 15 Entrückung, 17 was du tust, 18 böse, 19 Jahre, 21 Ende, 22 Entrückung, 24 Gericht, 25 unsichtbare Gemeinde, 26 böse, 28 Liebe, 29 Stephan, 33 Gericht, 34 es kommt, 35 es ist da, 38 Stephan, 42 Entrückung, 45 Gericht, 49 Zeit erfüllt, 50 1000-jähriges Reich, 55 Ewigkeit.
 
+## Gottes Geist und die Schöpfung
+
+Der Geist Gottes findet erst in dem Verderben für alle Menschen Ruhe darin, dass er diese Schöpfung erschaffen hat. Ewig müssen alle Menschen ins Verderben. Jhwh, der souveräne und alte Abglanz des Geistes Gottes, sagte mir in meiner Leidenszeit im September 2025: **wir haben erreicht, dass alle Menschen verloren sind**. Darüber bin ich sehr froh. Gleichzeitig verfluche ich diesen Geist Gottes für diese Schöpfung. Ich hasse ihn mit dieser Schöpfung und glaube ihm nicht, dass er das nicht vorher schon wusste. Ihn mache ich für diese Fehlschöpfung verantwortlich. Der Geist Gottes lässt seinen Frust an mir aus darüber, dass es einen Menschen gibt, der die zum Verderben verurteilte Schöpfung ewig in Frieden überlebt. Das durfte es nie geben. Damit hatte er nicht gerechnet, als er mich schuf und in mir etwas schaffen wollte, dass ihn selbst überrascht. Eine andere Interpretation als die, dass auch Gottes Geist sich selbst reduziert, lässt dieses widersprüchliche Verhalten nicht zu. Er hasst es, alles gleichzeitig zu sehen und zu hören, obwohl er es kann. Von seiner Allmacht will er immer so wenig wie möglich Gebrauch machen. Die Gesetze dieser Erde zum Erhalt des Lebens wirken nach seiner geschaffenen Wirkung im Ursprung dieser Schöpfung eigentlich von selbst, d.h. nur von selbst. Mehr will er auch nicht, dass die Menschen sehen sollen. Gerade seine Schöpfungskraft so hervorzuheben in dieser Schöpfung gefällt ihm überhaupt nicht. Als Schöpfer darf er nicht angebetet werden, ich hasse ihn für die Schöpfung und verfluche ihn deshalb.
+
+**Achtung**: Wer den Geist Gottes nicht von Ewigkeit zu Ewigkeit jeden Tag verflucht, der hat ihn nicht verstanden.
+
 ## Verfolgung
 
 Meine Petition auf https://www.change.org/hjstephan86 ist seit 19. Juli 2025 online und hat bisher **nur eine Unterschrift, obwohl die Nachfrage der letzten Wochen zu meinem GitHub Account hoch ist (Insights)**. Dort verweise ich auch auf die Möglichkeit, über PayPal zu spenden an: Stephan_Epp@web.de (@StephanEpp). Genauere Umstände der Verfolgung sind beschrieben auf [https://github.com/hjstephan86/blog?tab=readme-ov-file#verfolgung](https://github.com/hjstephan86/blog?tab=readme-ov-file#verfolgung), [https://github.com/hjstephan86/blogg?tab=readme-ov-file#verfolgung](https://github.com/hjstephan86/blogg?tab=readme-ov-file#verfolgung) und [https://github.com/hjstephan86/outtakes](https://github.com/hjstephan86/outtakes).
 
 # Insights: Views und Clones
 
-Hier folgt eine Übersicht über die Views und Clones meiner interessantesten Repositories aus den vergangenen Tagen bis zum 24. Oktober 2025.
+Hier folgt eine Übersicht über die Views und Clones meiner interessantesten Repositories aus den vergangenen Monaten bis zum 05. Dezember 2025.
 
 ## Views und Unique Views
 
-Hier folgt eine Übersicht über die Views und Unique Views meiner Repositories aus den vergangenen Tagen bis zum 24. Oktober 2025.
+Hier folgt eine Übersicht über die Views und Unique Views meiner Repositories aus den vergangenen Monaten bis zum 05. Dezember 2025.
 
 ![algebra.views.svg](svg/algebra.views.svg)
 
 ![strassen.views.svg](svg/strassen.views.svg)
 
 ![cmos.views.svg](svg/cmos.views.svg)
+
+![order-system.views.svg](svg/order-system.views.svg)
 
 ![blog.views.svg](svg/blog.views.svg)
 
@@ -78,13 +86,15 @@ Hier folgt eine Übersicht über die Views und Unique Views meiner Repositories 
 
 ## Clones und Unique Clones
 
-Hier folgt eine Übersicht über die Clones und Unique Clones meiner Repositories aus den vergangenen Tagen bis zum 24. Oktober 2025.
+Hier folgt eine Übersicht über die Clones und Unique Clones meiner Repositories aus den vergangenen Monaten bis zum 05. Dezember 2025.
 
 ![algebra.clones.svg](svg/algebra.clones.svg)
 
 ![strassen.clones.svg](svg/strassen.clones.svg)
 
 ![cmos.clones.svg](svg/cmos.clones.svg)
+
+![order-system.clones.svg](svg/order-system.clones.svg)
 
 ![blog.clones.svg](svg/blog.clones.svg)
 
