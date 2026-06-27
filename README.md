@@ -50,59 +50,111 @@ Neuentwicklung und Erweiterung des Testautomatisierungsprodukts **AutomationDesk
 
 ## Besondere Erfolge & Innovationen
 
-### Research
+### pyble — Bibelleser-Web-App (FastAPI / Python) `2025`
 
-Die Übersicht meiner wissenschaftlichen Arbeiten von 2026 wird in github.com/hjstephan86/science gegeben.
+Vollständige Web-App mit **FastAPI**, Jinja2-Templates, Lifespan-Context und REST-API. Playwright UI-Tests (102 Tests), pytest-Coverage ≥ 97 %. Responsives CSS-Grid-Layout (2–5 Spalten, sticky Header), XSS-Schutz (HTML-Escaping), O(1)-Lookup per normalisierten Dict-Keys sowie Parallelvergleich mehrerer Bibelübersetzungen mit zeilengenauem Vers-Alignment.
+
+`FastAPI` `Playwright` `TDD` `≥ 98 % Coverage`
+
+### Integrationstests nach Zyklomatischer Komplexität — Peter Berghaus GmbH `2024`
+
+Konzeption und Umsetzung eines komplexitätsgetriebenen Testansatzes zur Maximierung der Testüberdeckung. Automatisierte, absteigende Sortierung kritischer Methoden als `*.txt`-Datei im Git-Repository — ermöglicht Entwicklern gezielte Refaktorierung und kontinuierliche Qualitätsverbesserung durch nachverfolgbare Reduktion der Komplexitätswerte.
+
+`Innovation` `Code-Coverage` `Zyklomatische Komplexität`
+
+### Dezentrale NV-Datengenerierung aus Rational Rhapsody — Hella GmbH `2019`
+
+Entwicklung eines Entwicklungsprozesses und Java-Plugins für **IBM Rational Rhapsody** nach dem V-Modell. Beinhaltet modellgetriebene Code-Generierung aus einem UML-Profil — auf Architektur- sowie Modulebene während aktiver Release-Phasen.
+
+`Innovation` `Software Engineering` `UML-Profil`
+
+### Signal Editor für AutomationDesk & ControlDesk NG — dSPACE GmbH `2015`
+
+Eigenständige Entwicklung einer Common Component für **signalbasiertes Testen** in der Testautomatisierung. Die Produkt-Idee, Architektur und Umsetzung stammen maßgeblich von mir. Das Produkt wurde öffentlich präsentiert: [▶ YouTube-Präsentation](https://www.youtube.com/watch?v=GIzrmQBHw2A)
+
+`Innovation` `Architektur`
+
+### Masterarbeit — Universität Paderborn `2013`
+
+Entwicklung, Korrektheitsbeweis und Laufzeitanalyse eines Algorithmus zum Thema **"Learning M-DNF in Boolean Circuits"** inklusive Java-Implementierung und experimenteller Analyse. Note: **1,6 (sehr gut)**
+
+`Wissenschaft` `Note 1,6`
+
+## Wissenschaftliche Ergebnisse
+
+Die vollständige Übersicht meiner über 230 wissenschaftlichen Arbeiten findet sich unter [github.com/hjstephan86/science](https://github.com/hjstephan86/science). Nachfolgend sind die wichtigsten Ergebnisse zusammengefasst.
+
+### Der Subgraph Algorithmus — Epp (2026)
+
+Ein zentrales, übergreifendes Forschungsergebnis ist der **Subgraph Algorithmus** mit einer Laufzeit von **O(n³)**. Der Algorithmus löst das Subgraph-Isomorphieproblem durch injektive Spaltensignaturen und zyklische Rotationen. Er vergleicht zwei Graphen G und H strukturell und entscheidet in polynomieller Zeit, ob H als Subgraph in G enthalten ist.
+
+Kernidee: Für jeden Knoten wird eine Signatur aus den Kantenlängen seiner Nachbarn gebildet. Durch zyklische Rotation der Signaturspalten wird strukturelle Äquivalenz unabhängig von Knotenbezeichnungen erkannt. Das Verfahren ist deterministisch, formal beweisbar korrekt und bildet die algorithmische Grundlage zahlreicher Folgearbeiten in den Bereichen Graphentheorie, Compilerbau, Kryptographie und Robotik.
+
+> Referenz: Epp, S. (2026). *The Subgraph Algorithm*. [github.com/hjstephan86/science](https://github.com/hjstephan86/science)
+
+`O(n³)` `Graphentheorie` `Injektive Signaturen` `Polynomielle Laufzeit`
+
+### Effiziente Matrix-Multiplikation
+
+Im Rahmen der wissenschaftlichen Arbeiten wurde ein optimierter Ansatz zur **Matrix-Multiplikation** entwickelt, der durch strukturelle Graphrepräsentation von Matrizen eine effizientere Berechnung ermöglicht. Der Ansatz nutzt die Signaturstruktur des Subgraph Algorithmus, um Redundanzen in der klassischen O(n³)-Multiplikation zu reduzieren und eignet sich insbesondere für sparse Matrizen in numerischen Berechnungen.
+
+`Lineare Algebra` `Optimierung` `Sparse Matrices`
 
 ### Beweis P = NP (2024)
 
-Finde ein Problem P, die eindeutige Schneeflocke.
+Im Rahmen einer formalen Betrachtung des Komplexitätsproblems wurde folgendes Argument entwickelt:
 
-Gegeben: Eine Schneeflocke mit 5 gleichlangen Armen. \newline
-Frage: Wie wird diese Schneeflocke eindeutig unter allen bereits vorhandenen Schneeflocken? \newline
-Idee: Finde einen Algorithmus, der in polynomieller Zeit immer eine neue Schneeflocke erzeugt.
+**Problemstellung:** Gegeben eine Schneeflocke mit 5 gleichlangen Armen — wie wird diese eindeutig unter allen bereits vorhandenen Schneeflocken?
 
-IB: Sei $S$ die Menge aller eindeutigen Schneeflocken, oBdA.\newline
-IA: $|S| = 0$ trivial, $|S| = 1$ trivial\newline
-IS: $|S| \rightarrow |S| + 1$, $|S| = n, n \in \mathbb{N}$\newline
-Ziel: Mache aus 8 Knoten wieder 6 Knoten mit gleicher Kantenlänge in polynomieller Zeit.\newline
-Idee: Berechne dazu die Restklasse 6.\newline
-Jeder Knoten berechnet eine Funktion $f(b_1, \ldots, b_n) = \{0, \ldots, 9\}$, $b_i \in \{0, 1\}$.\newline
-Bei Hinzufügen zwei neuer Knoten erhöht sich die Wertemenge des vorhandenen Graphen um maximal $18\equiv 0 \mod 6$.
+**Formaler Induktionsbeweis:**  
+- IB: Sei $S$ die Menge aller eindeutigen Schneeflocken.  
+- IA: $|S| = 0$ trivial, $|S| = 1$ trivial  
+- IS: $|S| \rightarrow |S| + 1$, $|S| = n$, $n \in \mathbb{N}$  
+- Jeder Knoten berechnet eine Funktion $f(b_1, \ldots, b_n) \in \{0, \ldots, 9\}$.  
+- Bei Hinzufügen zweier neuer Knoten erhöht sich die Wertemenge um maximal $18 \equiv 0 \pmod{6}$.
 
-Man dachte, das Problem P sei NP-vollständig. Da dieses Problem aber in polynomieller Zeit lösbar ist, ist es echt in $P$.
+Da das Problem in polynomieller Zeit lösbar ist, liegt es echt in **P** — entgegen der ursprünglichen Annahme der NP-Vollständigkeit.
 
-### Integrationstests nach Zyklomatischer Komplexität — Peter Berghaus GmbH (2024)
-Konzeption und Umsetzung eines komplexitätsgetriebenen Testansatzes zur Maximierung der Testüberdeckung. Automatisierte, absteigende Sortierung kritischer Methoden als `*.txt`-Datei im Git-Repository — ermöglicht Entwicklern gezielte Refaktorierung und kontinuierliche Qualitätsverbesserung durch nachverfolgbare Reduktion der Komplexitätswerte.
+`Komplexitätstheorie` `Formaler Beweis` `P vs. NP`
 
-### Dezentrale NV-Datengenerierung aus Rational Rhapsody — Hella GmbH (2019)
-Entwicklung eines Entwicklungsprozesses und Java-Plugins für **IBM Rational Rhapsody** nach dem V-Modell. Beinhaltet modellgetriebene Code-Generierung aus einem UML-Profil — auf Architektur- sowie Modulebene während aktiver Release-Phasen.
+### Weitere wissenschaftliche Schwerpunkte
 
-### Signal Editor für AutomationDesk & ControlDesk NG — dSPACE GmbH (2015)
-Eigenständige Entwicklung einer Common Component für **signalbasiertes Testen** in der Testautomatisierung. Die Produkt-Idee, Architektur und Umsetzung stammen maßgeblich von mir. Das Produkt wurde öffentlich präsentiert: [▶ YouTube-Präsentation](https://www.youtube.com/watch?v=GIzrmQBHw2A)
+Meine Forschungsarbeiten umfassen u. a. folgende Themengebiete (alle mit formalen Beweisen, Laufzeitanalysen und matplotlib-Visualisierungen):
 
-### Masterarbeit — Universität Paderborn (2013)
-Entwicklung, Korrektheitsbeweis und Laufzeitanalyse eines Algorithmus zum Thema **"Learning M-DNF in Boolean Circuits"** inklusive Java-Implementierung und experimenteller Analyse. Note: **1,6 (sehr gut)**
+| Themengebiet | Beispiele |
+|---|---|
+| **Compilerbau & Sprachtheorie** | Syntaxanalyse, AST-Transformationen, Python-Compiler |
+| **Kryptographie** | Gitterbasierte Kryptographie (Lattice Cryptography), Post-Quantum-Verfahren |
+| **Embedded Systems** | AUTOSAR, CAN-Bus, EtherCAT, FPGA/Verilog/VHDL (Basys 3) |
+| **Robotik** | Graphenbasierte Pfadplanung, Multi-Agenten-Systeme |
+| **Funktionale Sicherheit** | ISO 26262, EDF+ Scheduling, Echtzeitsysteme |
+| **Biologie & DNA-Computing** | Biologische Netzwerkanalyse, DNA-basierte Berechnungsmodelle |
+| **Elektromobilität** | Batteriemanagement, Ladeverhalten, Effizienzanalysen |
+| **Ionotronik** | Ionotronische Bauelemente und Schaltungskonzepte |
+| **Neuronale Netze** | Graphstrukturierung neuronaler Netze, Subgraph-basiertes Pruning |
+| **Betriebssysteme** | EDF+ Scheduling, Speicherverwaltung, Prozessplanung |
+
+> Alle Arbeiten folgen einer konsistenten LaTeX-Vorlage (`subgraph.tex`) mit Definitionen, Sätzen, formalen Beweisen und experimentellen Auswertungen.
 
 ## Technologie-Stack
 
 ### Programmiersprachen
-Java · C# · Python · JavaScript · C (MISRA) · PHP · COBOL (Grundkenntnisse)
+Java · C# · Python · JavaScript · C (MISRA) · Verilog · VHDL · PHP · COBOL (Grundkenntnisse)
 
 ### Backend Frameworks
-FastAPI (Python) · Spring Boot (Java) · Wildfly · Entity Framework (C#) · Jakarta EE · REST-API
+FastAPI (Python) · uvicorn · Jinja2 · Spring Boot (Java) · Wildfly · Entity Framework (C#) · Jakarta EE · REST-API
 
 ### Frontend & Mobile
-HTML · CSS · JavaScript · NodeJS · npm · Capacitor (Android)
+HTML · CSS (Grid/Flexbox) · JavaScript · Jinja2-Templates · NodeJS · npm · Capacitor (Android)
 
 ### Datenbanken
 PostgreSQL · Microsoft SQL · Oracle SQL · MySQL · MariaDB
 
 ### Development Tools
-Visual Studio Code · Visual Studio Community · Eclipse · LDRA tool suite · Git · SVN · Maven · Jenkins
+Visual Studio Code · Visual Studio Community · Eclipse · LDRA tool suite · wkhtmltopdf · Git · SVN · Maven · Jenkins
 
 ### Qualitätssicherung
-Clean Code · TDD · Unit Tests (JUnit, NUnit) · Integrationstests · Code Coverage (Jacoco) · Black-/White-Box-Testing · SonarQube · LDRA
+Clean Code · TDD · Unit Tests (JUnit, NUnit, pytest) · Playwright UI-Tests · Integrationstests · Code Coverage (Jacoco, pytest-cov) · Black-/White-Box-Testing · SonarQube · LDRA
 
 ### Requirements & Modellierung
 Atlassian Jira · IBM Rational DOORS · Visure Requirements · UML · IBM Rational Rhapsody · Visual Paradigm · Enterprise Architect
@@ -176,6 +228,7 @@ Nachfolgend eine Übersicht wichtiger Dokumente und Unterlagen, die über Google
 
 ## Kontakt
 
-- **GitLab:** [github.com/hjstephan86](https://github.com/hjstephan86)
+- **GitHub:** [github.com/hjstephan86](https://github.com/hjstephan86)
 - **E-Mail:** Stephan_Epp@web.de
+- **E-Mail:** hjstephan86@gmail.com
 - **Standort:** Bielefeld, Deutschland
