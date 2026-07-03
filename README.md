@@ -203,16 +203,6 @@ Erfolgreiche Teilnahme an Fortbildungsmaßnahme
 
 **Interessen:** Wissenschaftliche Artikel verfassen · Software entwickeln · Bloggen · Fußball · Fitness · Schwimmen · Fotografie · Lesen · Spaziergänge
 
-## Rechtliche Verfahren
-Hier ist ein Überblick über die rechtlichen Verfahren, die ich führe: https://drive.google.com/drive/folders/1b978yvTBytCg8amzRYgvdTs1B3Z03Ij0?usp=sharing.
-
-## Ansprachen
-
-Ansprachen vom 31.12.2023, 14.01.2024 und 28.01.2024:
-- https://drive.google.com/file/d/1ce7o-_HODSS-c_HWdTDns9eL0Vtxaie5/view?usp=drivesdk (ab 1:09:29)
-- https://drive.google.com/file/d/1ne2rAoHA3CtqnSGrCx1lopkW-1NA3_-1/view?usp=drivesdk (ab 1:32:40)
-- https://drive.google.com/file/d/1SV_nwSJmtzGpn5tS0MNS4K0UEk-eBC5n/view?usp=drivesdk (ab 1:13:11)
-
 ## Hyperlinks
 
 Nachfolgend eine Übersicht wichtiger Dokumente und Unterlagen, die über Google Drive zugänglich sind:
@@ -225,6 +215,12 @@ Nachfolgend eine Übersicht wichtiger Dokumente und Unterlagen, die über Google
 
 - **Prophetie:** [→ Google Drive](https://drive.google.com/drive/folders/1_1VCJ5YVKH0XQRyFoKY2-TBcE3tIPt8f)  
   Unterlagen zur Prophetie
+
+- **Ansprachen:**
+Ansprachen vom 31.12.2023, 14.01.2024 und 28.01.2024:
+  - https://drive.google.com/file/d/1ce7o-_HODSS-c_HWdTDns9eL0Vtxaie5/view?usp=drivesdk (ab 1:09:29)
+  - https://drive.google.com/file/d/1ne2rAoHA3CtqnSGrCx1lopkW-1NA3_-1/view?usp=drivesdk (ab 1:32:40)
+  - https://drive.google.com/file/d/1SV_nwSJmtzGpn5tS0MNS4K0UEk-eBC5n/view?usp=drivesdk (ab 1:13:11)
 
 ## Kontakt
 
