@@ -207,6 +207,9 @@ Erfolgreiche Teilnahme an Fortbildungsmaßnahme
 
 Nachfolgend eine Übersicht wichtiger Dokumente und Unterlagen, die über Google Drive zugänglich sind:
 
+- **Rechtliche Verfahren:** [→ Google Drive](https://drive.google.com/drive/folders/1VvVFpcst5u1UlmxZ37xgrVO8nc0cEoba)  
+  Rechtliche Verfahren, die ich derzeit führe
+
 - **Bewerbungen:** [→ Google Drive](https://drive.google.com/drive/folders/16LqTdquTBQdjwp0MrYhvyFHCghq0dNRF)  
   Sammlung meiner Bewerbungsunterlagen
 
