@@ -50,6 +50,49 @@ Neuentwicklung und Erweiterung des Testautomatisierungsprodukts **AutomationDesk
 
 ## Besondere Erfolge & Innovationen
 
+### Die e-Funktion `2026`
+
+Betrachten wir die Reihendarstellung der e-Funktion:
+  $$
+  e^{st} = \sum_{n=0}^{\infty} \frac{(st)^n}{n!} = 1 + st + \frac{(st)^2}{2!} + \frac{(st)^3}{3!} + \cdots
+  $$
+Wird diese Reihe gliedweise abgeleitet, ergibt sich für
+  $$
+  \frac{d}{dt} e^{st} = \frac{d}{dt} \left(1 + st + \frac{(st)^2}{2!} + \frac{(st)^3}{3!} + \cdots + \frac{(st)^{e-2}}{(e-2)!} + \frac{(st)^{e-1}}{(e-1)!} + \frac{(st)^e}{e!}\right)
+  $$
+Dabei wird angenommen, $(st)^e/e!$ ist das erste Glied der unendlich vielen Glieder. Es ist dann
+  $$
+  \frac{d}{dt} e^{st} = s + \frac{2st \cdot s}{2!} + \cdots + \frac{(e-2)(st)^{e-1} \cdot s}{(e-2)!} + \frac{(e-1)(st)^e \cdot s}{(e-1)!} + \frac{e(st)^{e+1} \cdot s}{e!}\\
+  = s + \frac{(st)^2}{1!} + \cdots + \frac{(st)^{e-1}}{(e-2)!} + \frac{(st)^e}{(e-1)!} + \frac{(st)^{e+1}}{e!}\\
+  = s \left(1 + st + \cdots +\frac{(st)^{e-2}}{(e-2)!} + \frac{(st)^{e-1}}{(e-1)!} + \frac{(st)^e}{e!}\right) = s \cdot e^{st}
+  $$
+
+War die Annahme richtig, dass $(st)^e/e!$ das erste Glied der unendlich vielen Glieder ist oder ist $(st)^e/e!$ das letzte Glied der endlich vielen Glieder, bevor die unendlich vielen Glieder kommen? Auf jeden Fall wurde um ein Glied die Darstellung der e-Funktion nach rechts verschoben und mindestens ein Glied der unendlich vielen Glieder war erforderlich.
+
+Für die $n$-fache Ableitung der e-Funktion muss also eine Folge von $n$ Gliedern der unendlichen gewählt worden sein, so dass für alle $n$ Ableitungen die e-Funktion immer den richtigen Wert berechnet. Das bedeutet, dass die e-Funktion \textit{1-periodisch} ist. Anders geht es nicht, oder? Wie viele Glieder wären denn zu wählen, das heißt, wenn die e-Funktion $n$-periodisch ist, wie groß ist $n$? 2, 3, 4, oder 21, 22, 23? Irgendwie so vielleicht.
+
+Wir zeigen, dass, wenn bei einer Ableitung von e ein Glied der Taylor-Reihe gestrichen wird, was nach der Ableitungsregel zu tun ist, dass e sich dann nicht selbst reproduziert.
+
+Mit der Ableitung hat sich der Wert von e verändert im Vergleich zum Wert der Taylor-Reihendarstellung von e bevor ein Taylor-Reihenglied mit der Ableitung gestrichen worden ist. Also reicht es nicht aus, nur ein Glied der Taylor-Reihendarstellung zu streichen und damit reproduziert e sich mit der ersten Ableitung nicht selbst. Die Frage ist, wie oft aber muss ein Glied der Taylor-Reihe von e gestrichen werden, damit e endlich wieder in der Taylor-Reihendarstellung den ursprünglichen Anfangswert hat.
+
+Dass es aber eine endliche Reihe von Gliedern geben muss, die in der Taylor-Reihendar\-stellung zu streichen sind, das heißt, das e endlich oft abgeleitet werden muss, damit der Wert der Taylor-Reihen\-darstellung wieder den ursprünglichen Wert von e annimmt, ist so. Denn wenn dies nicht so wäre, hätten wir in der Vergangenheit e mit dieser Lüge so nicht behandeln können ohne dabei nicht böse Überraschungen zu erfahren in all den Entwicklungen der Ingenieure, auf die wir vertrauen und bei denen wir unserer Erfahrung nach noch nie enttäuscht wurden. Die Frage ist nur, wie viele Glieder sind zu streichen?
+
+Betrachtet man die Unendlichkeit in der Taylor-Reihendarstellung von e, dann ist es unlogisch und inkonsequent zu behaupten, dass einerseits e über die Taylor-Reihendarstellung im endlichen Bereich abzählbar darstellbar ist (die Taylor-Reihenglieder werden ab 1 aufgeschrieben), aber dann im Unendlichen das Hinzuziehen oder das Hinwegnehmen weiterer Taylor-Reihenglieder beliebig oft möglich ist, so, als sei die Unendlichkeit der Raum, in dem ich mir über Abzählbarkeit keine Gedanken mehr machen muss und immer das erhalte, was das Ergebnis aus dem Endlichen notwendigerweise korrigieren muss. 
+
+Der Raum in der Unendlichkeit ist kein Raum, der alle offenen Fragen immer so beantwortet, dass die einfachen Ergebnisse, die im Endlichen noch für Randbereiche zu korrigieren sind, korrigiert.
+
+Dies berührt auch die Frage des Nichtdeterminismus bei Turingmaschinen von Alan Turing. Es kann nicht sein, dass eine nichtdeterministische Turingmaschinen richtig rät und dass dieses Konzept des richtigen Ratens ein Nachweis ist für ein Problem, dass es in der Klasse NP enthalten ist.
+
+### Der Subgraph Algorithmus `2026`
+
+Der Subgraph Algorithmus – O(n³) Graphvergleich mittels injizierter Spaltensignaturen und zyklischer Rotationen.
+
+Der Subgraph Algorithmus ist ein effizienter O(n³)-Algorithmus zum Vergleich zweier gerichteter Graphen G und G' anhand ihrer Adjazenzmatrizen. Der Algorithmus beantwortet die Frage:
+
+Ist Graph G ein Teilgraph von Graph G'? Hierzu wird ein neuartiger Ansatz über injizierte Spaltensignaturen und zyklische Rotationen eingesetzt – ohne erschöpfende Permutationssuche (die O(n!) wäre).
+
+Kernaussage: Enthält G' den Graphen G als Teilgraph, so wird G verworfen, da G' mehr strukturelle Information trägt.
+
 ### pyble — Bibelleser-Web-App (FastAPI / Python) `2025`
 
 Vollständige Web-App mit **FastAPI**, Jinja2-Templates, Lifespan-Context und REST-API. Playwright UI-Tests (102 Tests), pytest-Coverage ≥ 97 %. Responsives CSS-Grid-Layout (2–5 Spalten, sticky Header), XSS-Schutz (HTML-Escaping), O(1)-Lookup per normalisierten Dict-Keys sowie Parallelvergleich mehrerer Bibelübersetzungen mit zeilengenauem Vers-Alignment.
@@ -80,19 +123,9 @@ Entwicklung, Korrektheitsbeweis und Laufzeitanalyse eines Algorithmus zum Thema 
 
 `Wissenschaft` `Note 1,6`
 
-## Wissenschaftliche Ergebnisse
+## Wissenschaftliche Erfolge
 
-Die vollständige Übersicht meiner über 230 wissenschaftlichen Arbeiten findet sich unter [github.com/hjstephan86/science](https://github.com/hjstephan86/science). Nachfolgend sind die wichtigsten Ergebnisse zusammengefasst.
-
-### Der Subgraph Algorithmus — Epp (2026)
-
-Ein zentrales, übergreifendes Forschungsergebnis ist der **Subgraph Algorithmus** mit einer Laufzeit von **O(n³)**. Der Algorithmus löst das Subgraph-Isomorphieproblem durch injektive Spaltensignaturen und zyklische Rotationen. Er vergleicht zwei Graphen G und H strukturell und entscheidet in polynomieller Zeit, ob H als Subgraph in G enthalten ist.
-
-Kernidee: Für jeden Knoten wird eine Signatur aus den Kantenlängen seiner Nachbarn gebildet. Durch zyklische Rotation der Signaturspalten wird strukturelle Äquivalenz unabhängig von Knotenbezeichnungen erkannt. Das Verfahren ist deterministisch, formal beweisbar korrekt und bildet die algorithmische Grundlage zahlreicher Folgearbeiten in den Bereichen Graphentheorie, Compilerbau, Kryptographie und Robotik.
-
-> Referenz: Epp, S. (2026). *The Subgraph Algorithm*. [github.com/hjstephan86/science](https://github.com/hjstephan86/science)
-
-`O(n³)` `Graphentheorie` `Injektive Signaturen` `Polynomielle Laufzeit`
+Die vollständige Übersicht meiner über 250 wissenschaftlichen Arbeiten findet sich unter [github.com/hjstephan86/science](https://github.com/hjstephan86/science). Nachfolgend sind ein paar wichtige Erfolge aufgeführt.
 
 ### Effiziente Matrix-Multiplikation
 
